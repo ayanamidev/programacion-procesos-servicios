@@ -6,7 +6,7 @@ import java.util.concurrent.TimeUnit;
 
 public class lanzarProceso {
 	
-	public static int MAX_TIEMPO=500;
+	public static int MAX_TIEMPO=2000;//CONSTANTE para expresas el tiempo maximo que el programa esperara por el proceso antes de terminarlo 
 	
 	public static void main(String[] args) {
 		
